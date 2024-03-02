@@ -1,7 +1,3 @@
-# NLP Internship  at Mentorness
-
-Welcome to the repository showcasing the projects completed during the NLP Internship at Mentorness. This collection includes three distinct tasks designed to enhance skills in Natural Language Processing (NLP). Feel free to explore the projects and the journey behind each one.
-
 ## Projects Overview
 
 ### Task 1: Synergizing Intelligence - NLP and Knowledge Graphs
